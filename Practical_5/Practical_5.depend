@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682842376 source:c:\users\dell\onedrive\desktop\is_practicals\practical_5\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+
